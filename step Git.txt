@@ -5,7 +5,7 @@ github web
 - Mở "git bash here"
 - gõ lệnh: git init  => Khởi tạo kho trống chứa file
 - git add .   => . chính là add tất cả file
-- git commit -m "message upload"  => gửi thông báo up file
+- git commit -m "comment thay đổi"  => gửi thông báo up file
 - git remote add origin https://github.com/thinhlehuuqt87/thinhlehuuqt87.github.io
 - git push origin master   => sao chép tất cả thay đổi lên web. kho đang chọn
 => truy cập thinhlehuuqt87.github.io để xem trang cá nhân
@@ -13,4 +13,4 @@ github web
 - git status => trạng thái thay đổi
 - git add . => để add tất cả những file có thay đổi
 - git commit -m
-- git push origin master
+- git push origin master => đẩy lên repository
