@@ -1,0 +1,16 @@
+1. khởi tạo
+git pm quản lý dữ liệu phân tan
+github web
+- Vào folder chứa web
+- Mở "git bash here"
+- gõ lệnh: git init  => Khởi tạo kho trống chứa file
+- git add .   => . chính là add tất cả file
+- git commit -m "message upload"  => gửi thông báo up file
+- git remote add origin https://github.com/thinhlehuuqt87/thinhlehuuqt87.github.io
+- git push origin master   => sao chép tất cả thay đổi lên web. kho đang chọn
+=> truy cập thinhlehuuqt87.github.io để xem trang cá nhân
+2. câu lệnh dùng để sync với tài khoản
+- git status => trạng thái thay đổi
+- git add . => để add tất cả những file có thay đổi
+- git commit -m
+- git push origin master
