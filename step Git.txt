@@ -11,6 +11,6 @@ github web
 => truy cập thinhlehuuqt87.github.io để xem trang cá nhân
 2. câu lệnh dùng để sync với tài khoản
 - git status => trạng thái thay đổi
-- git add . => để add tất cả những file có thay đổi
-- git commit -m
+- git add . => để add tất cả những file có thay đổi "hoặc tên file"
+- git commit -m "key đê lưu ở stack"
 - git push origin master => đẩy lên repository
